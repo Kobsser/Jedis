@@ -1,4 +1,0 @@
-PyJedis.egg-info/PKG-INFO
-PyJedis.egg-info/SOURCES.txt
-PyJedis.egg-info/dependency_links.txt
-PyJedis.egg-info/top_level.txt
