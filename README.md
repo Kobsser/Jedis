@@ -1,4 +1,4 @@
-![telegram](https://img.shields.io/badge/Telegram-/json?url=https://t.me/Kobsser&style=flat&logo=telegram&color=26A5E4) ![github](https://img.shields.io/badge/Github-Jedis-/json?url=https://github.com/Kobsser/Jedis&style=flat&logo=github&color=181717) ![pypi](https://img.shields.io/badge/Pypi-/json?url=https://pypi.org/project/jedis/&style=flat&logo=pypi&color=b5b5b5)
+[![telegram](https://img.shields.io/badge/Telegram-/json?url=https://t.me/Kobsser&style=flat&logo=telegram&color=26A5E4)](https://t.me/Kobsser) [![github](https://img.shields.io/badge/Github-Jedis-/json?url=https://github.com/Kobsser/Jedis&style=flat&logo=github&color=181717)](https://github.com/Kobsser/Jedis) [![pypi](https://img.shields.io/badge/Pypi-/json?url=https://pypi.org/project/jedis/&style=flat&logo=pypi&color=b5b5b5)](https://pypi.org/project/jedis/)
 # Jedis
 >`PyJedis` is a python package for easy `json` management that have an interface similar to __redis__.
 
